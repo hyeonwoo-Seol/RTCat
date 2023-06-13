@@ -1,0 +1,5 @@
+com.kakao.talk.theme.apeach.test-androidTest-0 C:\Users\visio\Documents\YTH_1.0.2_resource\build\generated\res\resValues\androidTest\debug
+com.kakao.talk.theme.apeach.test-androidTest-1 C:\Users\visio\Documents\YTH_1.0.2_resource\build\generated\res\rs\androidTest\debug
+com.kakao.talk.theme.apeach.test-mergeDebugAndroidTestResources-2 C:\Users\visio\Documents\YTH_1.0.2_resource\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.kakao.talk.theme.apeach.test-mergeDebugAndroidTestResources-3 C:\Users\visio\Documents\YTH_1.0.2_resource\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.kakao.talk.theme.apeach.test-merged_res-4 C:\Users\visio\Documents\YTH_1.0.2_resource\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,4 @@
+#Mon Jun 12 21:42:36 KST 2023
+base.0=C\:\\Users\\visio\\Documents\\YTH_1.0.2_resource\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
